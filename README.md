@@ -1,4 +1,6 @@
 # todo-app
+This is a simple todo app for learning vue js.
+It has add todo, delete, mark as done and mark as done functionality.
 
 ## Project setup
 ```
